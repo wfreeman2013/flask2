@@ -1,3 +1,8 @@
-flask
+Flask
+request
+jsonify
 requests
-beautifulsoup4
+BeautifulSoup
+Flask
+render_template
+os
