@@ -5,4 +5,5 @@ requests
 BeautifulSoup
 Flask
 render_template
-os
+gunicorn
+
